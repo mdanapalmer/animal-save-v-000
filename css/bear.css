@@ -13,6 +13,6 @@ html {
 @media only screen and (min-width: 1960px) {
   #bear {
     position: relative;
-    margin-right: 800px;
+    margin-left: 800px;
   }
 }
